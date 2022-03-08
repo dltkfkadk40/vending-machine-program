@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646728207 source:c:\workspace\codeblocks\codeblocks\workspace\c_project_vending_machine_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
